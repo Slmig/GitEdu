@@ -32,7 +32,7 @@ animals.append("dino")  # Добавление нового элемента с 
 print(animals)
 
 # Замените элемент 'dino' на 'dinosaur'
-animals[6]='dinosaur'
+animals[6] = 'dinosaur'
 print(animals)
 
 """ 
@@ -50,6 +50,5 @@ print(animals)
 
 # Теперь полностью очистите список
 
-animals=[]
+animals = []
 print(animals)
-
